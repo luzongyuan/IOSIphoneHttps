@@ -12,7 +12,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>https://ad.infoxgame.com/YinHuOA-H5/app/ios/yh.ipa</string>
+     <string>https://www.jianguoyun.com/c/dl-file/wangzhexiuzhen_resign_production_com.fersion.DZSSS.ipa?dt=pwvmzm&kv=MjEyMjk4NTk5QHFxLmNvbQ&sd=9navc&ud=r5gFZJxmwAy9ViPINtr6yQ&vr=1</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -21,7 +21,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>https://ad.infoxgame.com/YinHuOA-H5/images/logo_im.png</string>
+     <string>https://www.jianguoyun.com/c/dl-file/AppIcon2.png?dt=pwvn7h&kv=MjEyMjk4NTk5QHFxLmNvbQ&sd=9navc&ud=yjFiKJP2D2uQv03_k0IR1g&vr=1</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -30,14 +30,14 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>https://ad.infoxgame.com/YinHuOA-H5/images/logo_im.png</string>
+     <string>https://www.jianguoyun.com/c/dl-file/AppIcon2.png?dt=pwvn7h&kv=MjEyMjk4NTk5QHFxLmNvbQ&sd=9navc&ud=yjFiKJP2D2uQv03_k0IR1g&vr=1</string>
     </dict>
    </array>
    <key>metadata</key>
    <dict>
     <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
-    <string>com.yinhu.yhht</string>
+    <string>com.fersion.DZSSS</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
     <string>1.0.0</string>
